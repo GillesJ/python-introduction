@@ -1,0 +1,14 @@
+Project 1: Kruiswoordraadsels
+
+De bedoeling van dit project is om gebruikers te helpen met het oplossen van kruiswoordraadsels. Wanneer de gebruiker een aantal letters van het woord al kent, maar het juiste antwoord niet vindt, kan hij/zij ingeven hoeveel letters het woord telt en welke letters al gekend zijn. Op basis van die informatie zoekt het systeem naar mogelijke antwoorden in een meegeleverde woordenlijst. Vervolgens krijgt de gebruiker een alfabetisch geordende lijst met mogelijke antwoorden.
+
+Door het programma vanuit de juiste map op te roepen, voert het automatisch de eerste functie uit, waarbij gevraagd wordt hoeveel letters het woord telt. Vervolgens kan de gebruiker ingeven welke letters hij/zij kent en geeft het programma de mogelijke antwoorden.
+
+
+Project 2: babynamen
+
+De bedoeling van dit project is gelijkaardig aan het eerste project. Het programma moet gebruikers helpen bij het kiezen van een babynaam. De gebruiker kan ingeven met welke letter(s) de naam moet beginenen en/of eindigen. Vervolgens gaat het programma op zoek naar mogelijke namen op een website. De gebruiker krijgt een lijst namen, opgesplitst in mogelijkheden voor jongens en meisjes.
+
+Door het programma vanuit de juiste map op te roepen, voert het automatisch de eerste functie uit, waarbij gevraagd wordt met welke letter(s) de naam moet beginnen.
+
+Ik heb nog geprobeerd om alle namen weer te geven indien er meerdere pagina's waren, maar dat is niet gelukt. Het programma geeft dus enkel de eerste vijftig namen weer.

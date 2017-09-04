@@ -1,0 +1,46 @@
+rojo	NC
+abigarrado	ADJ
+abad	NC
+perro	NC
+niño	NC
+fin de semana	NC
+perro	ADJ
+perro	NC
+árbol	NC
+draga	NC
+perro	NC
+árbol	NC
+anónimo	ADJ
+abrazar	V
+mañana	NC
+abad	NC
+anónimo	NC
+abrazar	V
+fumar	V
+creer	V
+rojo	ADJ
+insultar	V
+aburrir	V
+dilacerar	V
+perro de presa	NC
+desprender	V
+fin de semana	NC
+abigarrado	ADJV
+abad	NC
+abalanzar	V
+abaratar	V
+abarrote	NC
+abastecer	V
+abatido	ADJ
+abatimiento	NC
+abigarrado	ADJV
+abdomen	NC
+abominable	ADJ
+abrasador	ADJ
+abrazo	NC
+perro	ADJ
+perro	NC
+anónimo	NC
+anónimo	ADJ
+corregir	V
+movilizar	V

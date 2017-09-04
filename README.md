@@ -16,8 +16,8 @@ You can download it from: http://continuum.io/downloads
 In this course we will be using Jupyter notebooks as a teaching tool. These are files that contain text, markup and executable code meant to make presenting code easy. Jupyter is the program that reads these files and presents them to your web-browser. It comes with the Anaconda distribution. 
 
 Run Jupyter:
-- Windows: There should be a shortcut in your menu with Jupyter Notebook like any other installed program.
-- OSX: ???
-- Linux: in terminal type: jupyter notebook
+- Windows: Use the Anaconda launcher. There should be a shortcut in your menu with Anaconda and/or Jupyter Notebook like any other installed program.
+- OSX: Use the Anaconda launcher.
+- Linux: Use the Anaconda launcher or in terminal type: jupyter notebook
 
 In case of issues, you can always install Jupyter separately with pip from Anaconda: https://jupyter.readthedocs.io/en/latest/install.html
