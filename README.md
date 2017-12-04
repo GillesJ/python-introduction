@@ -2,12 +2,12 @@
 This repository contains the course files for the Processing Language with Python class.
 
 The courses are thematically grouped by chapter notebooks:
-- chapter: for teaching without the DIY class exercises filled.
-- chapter+_course_notes: filled class exercises to be given after teaching.
-- chapter+_final_exercises: final exercises to be given as assignment after teaching.
-- chapter+_final_exercises_keys: Key to the final exercises to be given after assignment.
+- `chapter`: for teaching without the DIY class exercises filled.
+- `chapter+_course_notes`: filled class exercises to be given after teaching.
+- `chapter+_final_exercises`: final exercises to be given as assignment after teaching.
+- `chapter+_final_exercises_keys`: Key to the final exercises to be given after assignment.
 
-Historical course plan, feedback, assignments and projects of every year are stored in their corresponding directories for posteriority.
+Historical course plan, postmortem feedback, assignments and projects of every year are stored in their corresponding directories for posteriority.
 
 The project specification and announcement can be found in `/student_projects`.
 
