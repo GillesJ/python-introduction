@@ -1,0 +1,77 @@
+Punten:
+
+1) Opdrachten doorheen het jaar: 10% extra credit
+
+2) Eindproject: 100%,
+Wordt gescoord op vier vlakken:
+  - de omvang van het opgeloste probleem (niet hetzelfde als aantal lijnen code)
+  - kwaliteit: wordt het probleem correct opgelost? Testen met verschillende inputs is hierbij belangrijk om eventuele fouten te voorkomen
+  - leesbaarheid: is de code goed gestructureerd (heldere variabelenamen, gebruik van functies) en gedocumenteerd (comments)?
+  - proces: heb je zelfstandig gebruik gemaakt van het lesmateriaal en online bronnen om tot goeie oplossingen te komen?
+ 
+ Het project mag je indienen als een zip met de naam Achternaam_Voornaam_project.zip op Minerva, tegen vrijdag 20 januari 23u59. De zip bevat een map 'src' met daarin al je Pythonscripts, eventueel een map 'data' als je gebruik maakt van andere bestanden, en een readme.txt bestand met daarin uitgelegd wat de bedoeling van het project is, hoe de code moet worden aangeroepen, en eventuele opmerkingen.
+ 
+---
+
+Les 1
+2017-10-05
+
+Intro (Python 01 slides)
+Chapter 01: Variables (notebook)
+Opdracht: final exercises (notebook): not graded
+
+---
+
+Les 2
+2017-10-12
+
+Chapter 02: collections
+Opdracht: final exercises (notebook): not graded
+
+---
+
+Les 3
+2017-10-19
+
+Chapter 03: Conditions (alle oplossingen online na de les)
+Chapter 04: Loops
+Opdracht: 5 van de 7 final exercises naar keuze uit Chapter 04 (notebook): GRADED
+
+---
+
+Les 4
+2017-10-26
+
+Chapter 05: Files
+Geen officieel in te dienen opdracht
+
+---
+
+Les 5
+2017-11-16
+
+Chapter 06: Functions
+Chapter 07: Webcrawling
+Opdracht: final exercises uit Chapter 06
+
+---
+
+Les 6
+2017-11-23
+
+Definiëren van projecten (al eerder gevraagd om na te denken over een onderwerp)
+
+---
+
+Les 7
+2017-11-30
+
+Chapter 07: Webcrawling + more on loops
+Projectwerk + uitleg in kleinere groepjes (op basis van scope van project) over specifieke onderwerpen.
+
+---
+
+les 9
+2017-12-14:
+
+Laatste les projectwerk 

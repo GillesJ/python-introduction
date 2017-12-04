@@ -1,0 +1,15 @@
+Postmortem 2017-2018
+
+Issues:
+- Assignments:
+Decided to correct, feedback and grade assignments because the students did not voluntary make exercises. Originally the plan was to not correct assigments and make them voluntary. Maybe next your do not grade as planned. Disadvantage of not grading is the follow-up of students.
+
+- Grading: Assignments are graded, but because the course-spec says 100% to project the assignment count to extra credit. If we were to stick to plan and not grade or correct assignments we would open us up to the possible of source code plagiarism for the final project.
+
+- Technical install: antivirus and antimalware interferes a lot with anaconda.
+
+- Technical webscraping: The LT3 webpage used as example cannot be reached from eduroam. Use a different site next year.
+
+-----------------------------------
+
+Student Feedback 2017-2018

@@ -1,0 +1,11 @@
+Ex1: When rounding a float use round() not a cast to int!
+Ex1: Do not cast to int when you need to use a float because the decimals will be lost.
+Ex5: "comment"  #  actual comment is not a comment
+Ex 3:
+x = 100/0: Errors like the zero division error usually happen due to unexpected, non-deterministic values that  are past in variables to functions.
+It is more realistic for a variable that is not controlled by the programmer to enter.
+Calling the print statement  is  also not necessary for producing the error
+
+Vandenborre Laura: All good.
+
+Laura Van Brussel: All good.
