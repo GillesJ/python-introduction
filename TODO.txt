@@ -1,0 +1,4 @@
+- download all announcements made on minerva
+- join the final project annoucnements
+- rework final project specification
+- edit postmortem

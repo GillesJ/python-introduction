@@ -19,7 +19,7 @@ ________________________________________________________________________________
 # Course preparation
 In the course we will be using software that works best with Google Chrome. Firefox 6 (or above) and Safari will also work. Internet Explorer is not supported. All recommended software is cross-platform and works on Windows, OSX, and Linux. Please, make sure that the software described below is installed and working before coming to the first class.
 
-We will be using Python 3 for our course, which is the latest version. Lower versions are more or less supported, but not recommended.
+We will be using Python 3 for our course, which is the latest major version. Lower versions are more or less supported, but not recommended.
 
 ## Bring laptop
 This course will not be taught in computer classes and relies on each student to bring their own laptop.
