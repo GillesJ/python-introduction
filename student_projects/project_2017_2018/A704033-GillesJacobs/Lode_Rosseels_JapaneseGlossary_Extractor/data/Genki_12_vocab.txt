@@ -1,0 +1,82 @@
+足 [あし] /leg, foot/
+意味 [いみ] /meaning/
+おなか [おなか] /stomach/
+風邪 [かぜ] /cold/
+彼女 [かのじょ] /girlfriend/
+彼 [かれ] /boyfriend/
+気温 [きおん] /temperature (weather - not used for things)/
+曇り [くもり] /cloudy weather/
+試合 [しあい] /match, game/
+ジュース [ジュース] /juice/
+政治 [せいじ] /politics/
+成績 [せいせき] /grade (on a test, etc.)/
+せき [せき] /cough/
+のど [のど] /throat/
+歯 [は] /tooth/
+花 [はな] /flower/
+晴れ [はれ] /sunny weather/
+服 [ふく] /clothes/
+二日酔い [ふつかよい] /hangover/
+プレセント [プレセント] /present/
+ホームシック [ホームシック] /homesickness/
+物 [もの] /thing (concrete object)/
+雪 [ゆき] /snow/
+用事 [ようじ] /business to take care of/
+甘い [あまい] /sweet/
+痛い [いたい] /hurt, painful/
+多い [おおい] /there are many ~/
+狭い [せまい] /narrow, not spacious/
+都合が悪い [つごうがわるい] /inconvenient, to have a scheduling conflict/
+悪い [わるい] /bad/
+素敵 [すてき] /fantastic/
+風邪をひく [かぜをひく] /to catch a cold/
+興味がある [きょうみがある] /to be interested (in ~)/
+なくす [なくす] /to lose/
+熱がある [げつがある] /to have a fever/
+のどが渇く [のどがかわく] /to become thirsty/
+せきが出る [せきがでる] /to cough/
+別れる [わかれる] /to break up, separate/
+緊張する [きんちょうする] /to get nervous/
+心配する [しんぱいする] /to worry/
+いつも [いつも] /always/
+お大事に [おだいじに] /Get well soon/
+元気がない [げんきがない] /don't look well/
+多分 [たぶん] /probably, maybe/
+できるだけ [できるだけ] /as much as possible/
+～でしょう [～でしょう] /probably; ~, right?/
+～度 [～ど] /~ degrees (temperature)/
+二三日 [にさんにち] /for two to three days/
+～ので [～ので] /because ~/
+初めて [はじめて] /for the first time/
+もうすぐ [もうすぐ] /very soon, in a few moments or days/
+病気 [びょうき] /illness/
+けが [けが] /injuries/
+下痢です [げりです] /I have diarrhea/
+便秘です [べんぴです] /I am constipated/
+生理です [せいりです] /I have my period/
+花粉症です [かふんしょうです] /I have hay fever/
+～にアレルギーがあります [～にアレルギーがあります] /I have an allergy to ~/
+虫歯があります [むしはがあります] /I have a bad tooth/
+くしゃみが出ます [くしゃみがでます] /I sneeze/
+鼻水が出ます [はなみずがでます] /I have a runny nose/
+背中がかゆいです [せなかがかゆいです] /My back itches/
+発疹があります [はっしんがあります] /I have rashes/
+めまいがします [めまいがします] /I feel dizzy/
+吐きました [はきました] /I threw up/
+気分が悪いです [きぶんがわるいです] /I am not feeling well/
+やけどをしました [やけどをしました] /I burned myself/
+足の骨を折りました [あしがほねをのりました] /I broke my leg/
+けがをしました [けがをしました] /I hurt myself/
+内科 [ないか] /physician/
+皮膚科 [ひふか] /dermatologist/
+外科 [げか] /surgeon/
+産婦人科 [さんふじんか] /obstetrician and gynecologist/
+整形外科 [せいけいげか] /orthopedic surgeon/
+眼科 [がんか] /ophthamologist/
+歯科 [しか] /dentist/
+耳鼻科 [じびか] /otorhinolaryngologist, ENT doctor/
+抗生物質 [こうせいぶっしつ] /antibiotic/
+レントゲン [レントゲン] /X-ray/
+手術 [しゅじゅつ] /operation/
+注射 [ちゅうしゃ] /injection/
+体温計 [たいおんけい] /thermometer/

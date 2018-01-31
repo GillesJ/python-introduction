@@ -29,6 +29,11 @@ This was not clearly announced in advance.
 project ANNOUNCEMENT. THIS HAS TO BE CHANGED IN THE COURSE DESCRIPTION FOR
 NEXT EDITION.
 
+- Final project grading:
+Put more points than 3/20 on scope. Some students have very good code code but
+have a very limited program.
+=> have it be 5/20 and make readability 3/20.
+
 - Technical install:
 antivirus and antimalware interferes a lot with anaconda. This is your go-to
 when any student is experiencing problems.

@@ -1,0 +1,87 @@
+海 [うみ] /sea/
+切手 [きって] /postal stamps/
+切符 [きっぷ] /ticket/
+サーフィン [サーフィン] /surfing/
+宿題 [しゅくだい] /homework/
+食べ物 [たべもの] /food/
+誕生日 [たんじょうび] /birthday/
+テスト [テスト] /test/
+天気 [てんき] /weather/
+飲み物 [のみもの] /drink/
+葉書 [はがき] /postcard/
+バス [バス] /bus/
+飛行機 [ひこうき] /airplane/
+部屋 [へや] /room/
+僕 [ぼく] /I (used by men)/
+休み [やすみ] /holiday; day off; absence/
+旅行 [りょこう] /travel/
+新しい [あたらしい] /new/
+暑い [あつい] /hot (weather)/
+熱い [あつい] /hot (objects)/
+忙しい [いそがしい] /busy (people or days)/
+大きい [おおき] /large/
+面白い [おもしろい] /interesting/
+怖い [こわい] /frightening/
+寒い [さむい] /cold (weather, not used for objects)/
+楽しい [たのしい] /fun/
+小さい [ちいさい] /small/
+つめたい [つめたい] /boring/
+古い [ふるい] /old (things, not used for people)/
+難しい [むずかしい] /difficult/
+やさしい [やさしい] /easy (problem); kind (person)/
+安い [やすい] /inexpensive; cheap (thing)/
+嫌い [きらい] /disgusted with; to dislike/
+きれい [きれい] /beautiful; clean/
+元気 [げんき] /healthy; energetic/
+静か [しずか] /quiet/
+好き [すき] /fond of; to like/
+大嫌い [だいきらい] /to hate/
+大好き [だいすき] /very fond of; to love/
+にぎやか [にぎやか] /lively/
+ハンサム [ハンサム] /handsome/
+暇 [ひま] /not busy; to have a lot of free time/
+泳ぐ [およぐ] /to swim/
+聞く [きく] /to ask/
+乗る [のる] /to ride; to board/
+やる [やる] /to do; to perform/
+出かける [でかける] /to go out/
+一緒に [いっしょに] /together/
+それから [それから] /and then/
+大丈夫 [だいじょうぶ] /It's okay,; Not to worry.; Everything is under control.  /
+とても [とても] /very/
+どんな [どんな] /what kind of ~/
+～まい [～まい] /counter for flat objects/
+～まで [～まで] /to (a place); as far as (a place); till (a time)/
+なっとう [なっとう] /fermented beans/
+アイスクリーム [アイスクリーム] /ice cream/
+エアロビクス [エアロビクス] /aerobics/
+スキー [スキー] /skiing/
+スケート [スケート] /skating/
+ハードロック [ハードロック] /hard rock/
+ジャズ [ジャズ] /jazz/
+クラシック [クラシック] /classical music/
+窓口 [まどぐち] /counter/
+はがき [はがき] /postcard/
+小包 [こづつみ] /parcel/
+航空便 [こうくうびん] /airmail/
+保険 [ほけん] /insurance/
+書留 [かきとめ] /registered mail/
+切手 [きって] /stamp/
+エアログラム [エアログラム] /aerogramme/
+封書 [ぐうしょ] /letter/
+船便 [ふなびん] /surface mail/
+速達 [そくたつ] /special delivery/
+焼き増し [やきまし] /reprint/
+現像 [げんぞう] /development/
+光沢あり [こうたくあり] /glossy finish/
+光沢なし [こうたくなし] /mat finish/
+パノラマ [パノラマ] /panoramic/
+スライド [スライド] /slide/
+プリント [プリント] /print/
+仕上がり [しあがり] /date or time something is ready/
+２４枚撮り [にじゅうまいどり] /24-print roll/
+使い捨てカメラ [つかいすてカメラ] /disposable camera/
+ネガ [ネガ] /negative/
+フィルム [フィルム] /film/
+電池 [でんち] /battery/
+引き換え券 [ひきかえけん] /receipt/

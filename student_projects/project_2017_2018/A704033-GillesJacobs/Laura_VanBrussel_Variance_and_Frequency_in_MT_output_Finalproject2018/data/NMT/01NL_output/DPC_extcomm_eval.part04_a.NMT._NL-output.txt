@@ -1,0 +1,33 @@
+Alles wat leeft, is in een constante staat van verandering.
+CLN wordt geleverd door 21 ArcelorMittal molens die allemaal hetzelfde SAP-systeem gebruiken voor orderinvoer, orderplanning, leveringen en facturering.
+Het is daarom belangrijk deze veranderingen in de goede richting te begeleiden en ervoor te zorgen dat de doelstellingen worden bereikt.
+De ArcelorMittal-fabrieken hebben nu overgegaan naar 'Delfor', het nieuwste en meest complete EDI-programma voor gegevensuitwisseling.
+Dat is precies wat we aan Arcelor doen.
+De molen in Fos-sur-Mer is de enige uitzondering.
+Als klant moet u wennen aan nieuwe namen en nieuwe gezichten in onze organisatie.
+We kwamen op met nieuwe producten en processen en introduceerden nieuwe acroniemen en methoden.
+Zij hebben al hun klanten een EDI-dienst genaamd 'Orders' aangeboden, maar in tegenstelling tot 'Delfor', 'Orders' is alleen geschikt voor het verwerken van spotorders - en niet 'geplande afspraken'.
+Via het medium van Update hebben we u altijd op de hoogte gehouden van onze doelstellingen en onze agenda.
+'Dat is jammer,' zegt Michele Podesta, 'vooral omdat Fos-sur-Mer de belangrijkste leverancier van CLN in Italië is.
+Vandaag, in dit nummer van Update, presenteren we een tussentijds rapport.
+Jaarlijks nemen we 400.000 ton staal uit Fos-sur-Mer voor onze Italiaanse fabrieken.
+Een positief aspect van dit alles is dat uw behoeften en eisen als klant zijn wat ons leiden in alles wat we ondernemen.
+In 2009, als Fos-sur-Mer ook naar Delfor zal overschakelen, zal het aantal bestellingen via EDI geplaatst aanzienlijk hoger zijn, want dan zullen we ook de EDI-afspraken kunnen uitvoeren.
+Toen we aankwamen bij Walter Vermeirsch, de nieuwe vice-voorzitter van het Arcelor Client Value Team (CVT), merkt hij op dat hij onlangs niets heeft ontvangen van positieve feedback van veel klanten over de richting waarin Arcelor zich ontwikkelt.
+Vandaag kunnen we onze orders voor de Belgische, Duitse, Franse en Poolse molens direct via het Delfor-platform direct in het ArcelorMittal SAP-systeem invoeren.
+Hij vertelde ons hoe precies Arcelor erin slaagt om de OTIF 95-doelstellingen tegen het einde van dit jaar te bereiken.
+En deze orders vertegenwoordigen een volume van 450 000 ton "
+Maar dat is zeker niet het enige resultaat van onze inspanningen in de afgelopen maanden.
+"Voor de transacties in Italië begonnen we door 20 producten te selecteren en een voorlopige test uit te voeren met aankopen van TRIP-staal," legt Carlo Malasomma uit.
+Walter Vermeirsch vertelde ons ook over de eerste, veelbelovende innovaties in de Supply Chain, en de belangrijke verbeteringen die zijn geïntroduceerd in de Upstream-sector van ons productieapparaat.
+"In de herfst van 2007 waren we volledig operationeel.
+De manier waarop cliënten over hun samenwerking met Arcelor CVT praten dragen de woorden van Walter Vermeirsch uit.
+Alle staalinkopen voor CLN's personenauto's in Italië zijn sinds het eerste kwartaal van 2008 door EDI uitgevoerd.
+In ons artikel over het Zweedse bedrijf Lindab kunt u bijvoorbeeld lezen over hun positieve ervaring met de eerste etappes van ons proefproject Committed Volume & Lead Time.
+Het Duitse bedrijf Vaillant is ook erg tevreden over zijn samenwerking met Arcelor CVT.
+Arcelor verandert ... en groeit.
+Na de zomer worden alle staalinkopen voor de productie van vrachtwagen- en landbouwwielen ook via het EDI-platform in Fos-sur-Mer uitgevoerd. "
+Dofasco is bijvoorbeeld lid van de Arcelor Groep.
+Verkoop betekent service
+En in dit nummer kunt u ook lezen over de alliantie met Nippon Steel Corporation, het nieuwe Staal Service Center in Slowakije, het minderheidsbelang in het Chinese staalbedrijf Laiwu en andere nieuwe samenwerkingsovereenkomsten.
+Bij CLN kijken ze terug op hun harde werk met tevredenheid.
