@@ -1,0 +1,134 @@
+﻿アルバイト [アルバイト] /part-time job/
+買い物 [かいもの] /shopping/
+クラス [クラス] /class/
+あなた [あなた] /you/
+犬 [いぬ] /dog/
+お土産 [おみやげ] /souvenir/
+子供 [こども] /child/
+御飯 [ごはん] /rice; meal/
+写真 [しゃしん] /picture; photograph/
+机 [つくえ] /desk/
+手紙 [てがみ] /letter/
+猫 [ねこ] /cat/
+パン [パン] /bread/
+人 [ひと] /person/
+お寺 [おてら] /temple/
+公園 [こうえん] /park/
+スーパー [スーパー] /supermarket/
+デパート [デパート] /department store/
+バス停 [バスてい] /bus stop/
+病院 [びょういん] /hospital/
+ホテル [ホテル] /hotel/
+本屋 [ほんや] /bookstore/
+町 [まち] /town; city/
+レストラン [レストラン] /restaurant/
+昨日 [きのう] /yesterday/
+さっき [さっき] /a little while ago/
+～時間 [～じかん] /hour/
+一時間 [いちじかん] /one hour/
+先週 [せんしゅう] /last week/
+時 [とき] /when ~; at the time of ~/
+月曜日 [げつようび] /Monday/
+火曜日 [かようび] /Tuesday/
+水曜日 [すいようび] /Wednesday/
+木曜日 [もくようび] /Thursday/
+金曜日 [きんようび] /Friday/
+合う [あう] /to meet; to see (a person)/
+ある [ある] /there is ~/
+買う [かう] /to buy/
+書く [かく] /to write/
+撮る [とる] /to take (pictures)/
+待つ [まつ] /to wait/
+わかる [わかる] /to understand/
+いる [いる] /(a person) is in ~; stays at ~/
+～ぐらい [～ぐらい] /about (approximate measurement)/
+ごめんなさい [ごめんなさい] /I'm sorry/
+だから [だから] /so; therefore/
+たくさん [たくさん] /many; a lot/
+～と [～と] /together with (a person)/
+どうして [どうして] /why/
+一人で [ひとりで] /alone/
+もしもし [もしもし] /Hello? (used on the phone)/
+右 [みぎ] /right/
+左 [ひだり] /left/
+前 [まえ] /front/
+後ろ [うしろ] /back/
+中 [なか] /inside/
+上 [うえ] /on/
+下 [した] /under/
+そば [そば] /near/
+隣 [となり] /next/
+間 [あいだ] /between/
+そこ [そこ] /there/
+ここ [ここ] /here/
+教室 [きょうしつ] /classroom/
+動物園 [どうぶつえん] /zoo/
+国 [くに] /country/
+クラブ [クラブ] /club activity/
+パーティー [パーティー] /party/
+テスト [テスト] /test/
+ラケット [ラケット] /racket/
+バスケット [バスケット] /basketball/
+ついたち [ついたち] /1st (day of the month)/
+ふつか [ふつか] /2nd (day of the month)/
+みっか [みっか] /3rd (day of the month)/
+よっか [よっか] /4th (day of the month)/
+いつか [いつか] /5th (day of the month)/
+むいか [むいか] /6th (day of the month)/
+なのか [なのか] /7th (day of the month)/
+ようか [ようか] /8th (day of the month)/
+ここのか [ここのか] /9th (day of the month)/
+とうか [とうか] /10th (day of the month)/
+じゅういちにち [じゅういちにち] /11th (day of the month)/
+じゅうににち [じゅうににち] /12th (day of the month)/
+じゅうさんにち [じゅうさんにち] /13th (day of the month)/
+じゅうよっか [じゅうよっか] /14th (day of the month)/
+じゅうごにち [じゅうごにち] /15th (day of the month)/
+じゅうろくにち [じゅうろくにち] /16th (day of the month)/
+じゅうしちにち [じゅうしちにち] /17th (day of the month)/
+じゅうはちにち [じゅうはちにち] /18th (day of the month)/
+じゅうくにち [じゅうくにち] /19th (day of the month)/
+はつか [はつか] /20th (day of the month)/
+にじゅういちにち [にじゅういちにち] /21st (day of the month)/
+にじゅうににち [にじゅうににち] /22nd (day of the month)/
+にじゅうさんにち [にじゅうさんにち] /23rd (day of the month)/
+にじゅうよっか [にじゅうよっか] /24th (day of the month)/
+にじゅうごにち [にじゅうごにち] /25th (day of the month)/
+にじゅうろくにち [にじゅうろくにち] /26th (day of the month)/
+にじゅうしちにち [にじゅうしちにち] /27th (day of the month)/
+にじゅうはちにち [にじゅうはちにち] /28th (day of the month)/
+にじゅうくにち [にじゅうくにち] /29th (day of the month)/
+さんじゅうにち [さんじゅうにち] /30th (day of the month)/
+さんじゅういちにち [さんじゅういちにち] /31st (day of the month)/
+一月 [いちがつ] /January/
+二月 [にがつ] /February/
+三月 [さんがつ] /March/
+四月 [しがつ] /April/
+五月 [ごがつ] /May/
+六月 [ろくがつ] /June/
+七月 [しちがつ] /July/
+八月 [はちがつ] /August/
+九月 [くがつ] /September/
+十月 [じゅうがつ] /October/
+十一月 [じゅういちがつ] /November/
+十二月 [じゅうにがつ] /December/
+おととい [おととい] /the day before yesterday/
+昨日 [きのう] /yesterday/
+今日 [きょう] /today/
+あした [あした] /tomorrow/
+あさって [あさって] /the day after tomorrow/
+先々週 [せんせんしゅう] /the week before last/
+先週 [せんしゅう] /last week/
+今週 [こんしゅう] /this week/
+来週 [らいしゅう] /next week/
+再来週 [さらいしゅう] /the week after next/
+二カ月前 [にかげつまえ] /the month before last/
+先月 [せんげつ] /last month/
+今月 [こんげつ] /this month/
+来月 [らいげつ] /next month/
+再来月 [さらいげつ] /the month after next/
+おととし [おととし] /the year before last/
+去年 [きょねん] /last year/
+今年 [ことし] /this year/
+来年 [らいねん] /next year/
+再来年 [さらいねん] /the year after next/

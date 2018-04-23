@@ -1,4 +1,4 @@
-# Processing Language with Python: Final Projects
+# Processing Language with Python: Third Exam Period Final Projects
 ---
 You will formulate a practical problem for which you program a tool or application in Python. Examples projects are given below, but we encourage you to think creatively about an issue/tool that is useful for yourself.
 
@@ -9,7 +9,7 @@ You are allowed to formulate a project in group or solo. When you choose a group
 ***Deadlines:***
 - Project proposal brainstorming post on Minerva forum: ***20 November 2017, 23:59h***.
 - Finished project proposal with problem analysis: ***27 November 2017, 23:59h***.
-- Final project submission: ***24 January 2018, 23:59h***.
+- Final project submission: ***To Be Announced***.
 
 The project accounts for 100% of the final grade. The graded assignments give you extra points on top of the project score.
 

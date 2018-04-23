@@ -1,0 +1,15 @@
+facilidad +
+The lemma contratar is not in one of the lexicons.
+pasa +
+The lemma factura is not in one of the lexicons.
+The lemma país is not in one of the lexicons.
+The lemma ocupar is not in one of the lexicons.
+The lemma posición is not in one of the lexicons.
+The lemma índice is not in one of the lexicons.
+The lemma competitividad is not in one of the lexicons.
+The lemma laboral is not in one of the lexicons.
+The lemma encabezar is not in one of the lexicons.
+estado -
+The lemma introducción is not in one of the lexicons.
+
+The total value of this article is: 1

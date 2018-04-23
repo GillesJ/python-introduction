@@ -1,0 +1,121 @@
+姉 [あね] /(my) older sister/
+アパート [アパート] /apartment/
+妹 [いもうと] /younger sister/
+歌 [うた] /song/
+弟 [おとうと] /younger brother/
+男の人 [おとこのひと] /man/
+お兄さん [おにいさん] /older brother/
+お姉さん [おねえさん] /older sister/
+女の人 [おんなのひと] /woman/
+会社 [かいしゃ] /company/
+家族 [かぞく] /family/
+髪 [かみ] /hair/
+兄弟 [きょうだい] /brothers and sisters/
+国 [くに] /country, place of origin/
+車 [くるま] /car/
+コンビニ [コンビニ] /convenience store/
+食堂 [しょくどう] /cafeteria, dining commons/
+父 [ちち] /(my) father/
+Ｔシャツ [Ｔシャツ] /T-shirt/
+目 [め] /eye/
+眼鏡 [めがね] /glasses/
+頭がいい [あたまがいい] /bright, smart, clever/
+かっこいい [かっこういい] /great-looking/
+かわいい [かわいい] /cute/
+背が高い [せがたかい] /tall/
+背が低い [せがひくい] /short (stature)/
+長い [ながい] /long/
+速い [はやい] /fast/
+短い [みじかい] /short (length)/
+親切 [しんせつ] /kind/
+便利 [べんり] /convenient/
+歌う [うたう] /to sing/
+かぶる [かぶる] /to put on (a hat)/
+知る [しる] /to get to know/
+知っています [しっています] /I know/
+知りません [しりません] /I do not know/
+住む [すむ] /to live/
+はく [はく] /to put on (items below your waist)/
+太る [ふとる] /to gain weight/
+太っています [ふっています] /to be on the heavy side/
+かける [かける] /to put on (glasses)/
+着る [きる] /to put on (clothes above your waist)/
+勤める [つとめる] /to work for/
+やせる [] /to lose weight/
+やせています [やせています] /to be thin/
+結婚する [けっこんする] /to get married/
+が [が] /but/
+何も [なにも] /not ... anything/
+～人 [～にん] /(counter for people)/
+一人 [ひとり] /one person/
+二人 [ふたり] /two people/
+別に [べつに] /not ... in particular/
+もちろん [もちろん] /of course/
+よかったら [よかったら] /if you like/
+三人 [さんにん] /three people/
+四人 [よにん] /four people/
+五人 [ごにん] /five people/
+六人 [ろくにん] /six people/
+七人 [ななにん] /seven people/
+八人 [はちにん] /eight people/
+九人 [きゅうにん] /nine people/
+十人 [じゅうにん] /ten people/
+テニスをする [テニスをする] /to play tennis/
+バスケットをする [バスケットをする] /to play basketball/
+テレビゲームをする [テレビゲームをする] /to play video games/
+トランプをする [トランプをする] /to play cards/
+ギターを弾く [ギターをひく] /to play the guitar/
+ルームメイト [ルームメイト] /roommate/
+耳 [みみ] /ear/
+鼻 [はな] /nose/
+口 [くち] /mouth/
+指 [ゆび] /finger/
+歯 [は] /tooth/
+首 [くび] /neck/
+手 [て] /hand/
+頭 [あたま] /head/
+顔 [かお] /face/
+肩 [かた] /shoulder/
+胸 [むね] /chest/
+背中 [せなか] /back/
+おなか [おなか] /stomach/
+おしり [おしり] /behind, rear, bottom, buttocks/
+足 [あし] /leg/
+お父さん [おとうさん] /father (someone else's family)/
+お母さん [おかあさん] /mother (someone else's family)/
+お兄さん [おにいさん] /older brother (someone else's family)/
+お姉さん [おねえさん] /older sister (someone else's family)/
+弟さん [おとうとさん] /younger brother (someone else's family)/
+妹さん [いもうとさん] /younger sister (someone else's family)/
+ご主人 [ごしゅじん] /husband (someone else's family)/
+奥さん [おくさん] /wife (someone else's family)/
+おじいさん [おじいさん] /grandfather (someone else's family)/
+おばあさん [おばあさん] /grandmother (someone else's family)/
+お子さん [おこさん] /child (someone else's family)/
+父 [ちち] /father (one's own family - formal situation)/
+母 [はは] /mother (one's own family - formal situation)/
+兄 [あに] /older brother (one's own family - formal situation)/
+姉 [あね] /older sister (one's own family - formal situation)/
+弟 [おとうと] /younger brother (one's own family - formal situation)/
+妹 [いもうと] /younger sister (one's own family - formal situation)/
+主人 [しゅじん] /husband (one's own family - formal situation)/
+夫 [おっと] /husband (one's own family - formal situation)/
+家内 [かない] /wife (one's own family - formal situation)/
+妻 [つま] /wife (one's own family - formal situation)/
+祖父 [そふ] /grandfather (one's own family - formal situation)/
+祖母 [そぼ] /grandmother (one's own family - formal situation)/
+うちの子 [うちのこ] /child (one's own family - formal situation)/
+お父さん [おとうさん] /father (one's own family - informal situation)/
+お母さん [おかあさん] /mother (one's own family - informal situation)/
+お兄さん [おにいさん] /older brother (one's own family - informal situation)/
+お姉さん [おねえさん] /older sister (one's own family - informal situation)/
+弟 [おとうと] /younger brother (one's own family - informal situation)/
+妹 [いもうと] /younger sister (one's own family - informal situation)/
+だんな [だんな] /husband (one's own family - informal situation)/
+うちの人 [うちのひと] /husband (one's own family - informal situation)/
+女房 [にょうぼう] /wife (one's own family - informal situation)/
+ワイフ [ワイフ] /wife (one's own family - informal situation)/
+かみさん [かみさん] /wife (one's own family - informal situation)/
+おじいさん [おじいさん] /grandfather (one's own family - informal situation)/
+おばあさん [おばあさん] /grandmother (one's own family - informal situation)/
+うちの子 [うちのこ] /child (one's own family - informal situation)/

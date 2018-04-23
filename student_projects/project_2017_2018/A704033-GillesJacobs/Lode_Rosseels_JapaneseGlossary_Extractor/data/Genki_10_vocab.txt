@@ -1,0 +1,93 @@
+秋 [あき] /fall/
+医者 [いしゃ] /doctor/
+駅 [えき] /station/
+お金持ち [おかねもち] /rich person/
+顔 [かお] /face/
+季節 [きせつ] /season/
+クレジットカード [クレジットカード] /credit card/
+今年 [ことし] /this year/
+サッカー [サッカー] /soccer/
+シャツ [シャツ] /shirt/
+生活 [せいかつ] /life, living/
+世界 [せかい] /world/
+地下鉄 [ちかてつ] /subway/
+手袋 [てぶくろ] /gloves/
+床屋 [とこや] /barber's/
+春 [はる] /spring/
+パンツ [パンツ] /pants/
+美容院 [びよういん] /beauty parlor/
+便 [びん] /flight/
+船 [ふね] /ship, boat/
+野球 [やきゅう] /baseball/
+有名人 [ゆうめいじん] /celebrity/
+予約 [よやく] /reservation/
+来学期 [らいがっき] /next semester/
+りんご [りんご] /apple/
+暖かい [あたたかい] /warm/
+遅い [おそい] /slow, late/
+涼しい [すずしい] /cool (weather - not used for things)/
+冷たい [つめたい] /cold (thing or people)/
+眠い [ねむい] /sleepy/
+簡単 [かんたん] /easy, simple/
+かかる [かかる] /to take (amount of time or money)/
+泊まる [とまる] /to stay (at a hotel, etc.)/
+なる [なる] /to become/
+払う [はらう] /to pay/
+決める [きめる] /to decide/
+練習する [れんしゅうする] /to practice/
+歩いて [あるいて] /on foot/
+一番 [いちばん] /best/
+～か～ [～か～] /or/
+～か月 [～かげつ] /for ~ months/
+～後 [～ご] /in ~ time, after ~ /
+このごろ [このごろ] /these days/
+～週間 [～しゅうかん] /for ~ weeks/
+～で [～で] /by (means of transportation), with (a tool)/
+どうやって [どうやって] /how, by what means/
+どちら [どちら] /which/
+どっち [どっち] /which/
+どのぐらい [どのぐらい] /how much, how long/
+～年 [～ねん] /~ years/
+早く [はやく] /(do something) early, fast/
+喫煙席 [きつえんせき] /smoking seat/
+窓側の席 [まどがわのせき] /window seat/
+通路側の席 [つうろがわのせき] /aisle seat/
+禁煙席 [きんえんせき] /nonsmoking seat/
+普通 [ふつう] /local train/
+急行 [きゅうこう] /express train/
+特急 [とっきゅう] /super express train/
+～行き [～いき] /bound for ~/
+～方面 [～ほうめん] /serving ~ areas/
+乗車券 [じょうしゃけん] /(boarding) ticket/
+回数券 [かいすうけん] /coupons/
+定期券 [ていきけん] /commuter's pass/
+整理券 [せいりけん] /vouchers, zone tickets/
+学割 [がくわり] /student discount/
+指定席 [していせき] /reserved seat/
+自由席 [じゆうせき] /general admission seat/
+禁煙車 [きんえんしゃ] /nonsmoking car/
+往復 [おうふく] /round trip/
+片道 [かたみち] /one way/
+～番線 [～ばんせん] /track number ~/
+切符売り場 [きっぷうりば] /ticket vending area/
+改札 [かいさつ] /gate/
+ホーム [ホーム] /platform/
+売店 [ばいてん] /kiosk/
+出口 [でぐち] /exit/
+入口 [いりぐち] /entrance/
+階段 [かいだん] /stairs/
+いちばん前 [いちばんまえ] /first car; front end/
+いちばん後ろ [いちばぬしろ] /last car; tail end/
+乗り換え [のりかえ] /transfer/
+次は～ [つぎは～] /next (stop) ~/
+先発 [せんぱつ] /departing first/
+次発 [じはつ] /departing second/
+終電 [しゅうでん] /last train/
+まもなく発車します [まもうなくはっしゃします] /We will be leaving soon/
+電車が参ります [でんしゃがまいります] /A train is arriving/
+次は～に止まります [つぎは～にとまります] /Next (we'll stop at) ~/
+ドアが閉まります。ご注意ください [ドアがしまります。ごちゅういください] /The doors are closing.  Please be careful/
+この電車は秋葉原に止まりますか [このでんしゃはあきはばらにとまりますか] /Does this train stop at Akihabara?/
+終電は何時ですか [しゅうでんはなんじですか] /What time is the last train?/
+東京までの指定席を一枚お願いします [とうきょうまでのしていせきをいちまいおねがいします] /One reserved ticket to Tokyo, please./
+学割が使えますか [がくわりがつかえますか] /Can I get a student discount?/

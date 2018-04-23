@@ -1,0 +1,63 @@
+いい子 [いいこ] /good child/
+色 [いろ] /color/
+お弁当 [おべんとう] /boxed lunch/
+温泉 [おんせん] /spa, hot spring/
+かぶき [かぶき] /Kabuki (traditional Japanese theater art)/
+ギター [ギター] /guitar/
+薬 [くすり] /medicine/
+薬を飲む [くすりをのむ] /to take medicine/
+コンサート [コンサート] /concert/
+今度 [こんど] /near future/
+作文 [さくぶん] /essay, composition/
+試験 [しけん] /exam/
+新幹線 [しんかんせん] /Shinkansen, "Bullet Train"/
+スキー [スキー] /ski/
+先月 [せんげつ] /last month/
+単語 [たんご] /word, vocabulary/
+ピアノ [ピアノ] /piano/
+病気 [びょうき] /illness, sickness/
+青い [あおい] /blue/
+赤い [あかい] /red/
+黒い [くろい] /black/
+寂しい [さびしい] /lonely/
+白い [しろい] /white/
+若い [わかい] /young/
+意地悪 [いじわる] /mean-spirited/
+踊る [おどる] /to dance/
+終る [おわる] /(something) ends/
+人気がある [にんきがある] /to be popular/
+始まる [はじまる] /(something) begins/
+弾く [ひく] /to play (a string instrument or a piano)/
+もらう [もらう] /to get (from somebody)/
+覚える [おぼえる] /to memorize/
+出る [でる] /(1) to appear, to attend, (2) to exit/
+運動する [うんどうする] /to do physical exercise/
+散歩する [さんぽする] /to take a walk/
+～から [～から] /from ~/
+是非 [ぜひ] /by all means/
+ところで [ところで] /by the way/
+みんな [みんな] /all/
+もう [もう] /already/
+一つ [ひとつ] /one (used to count small items)/
+二つ [ふたつ] /two (used to count small items)/
+三つ [みっつ] /three (used to count small items)/
+四つ [よっつ] /four (used to count small items)/
+五つ [いつつ] /five (used to count small items)/
+六つ [むっつ] /six (used to count small items)/
+七つ [ななつ] /seven (used to count small items)/
+八つ [やっつ] /eight (used to count small items)/
+九つ [ここのつ] /nine (used to count small items)/
+十 [とお] /ten (used to count small items)/
+黄色 [きいろ] /yellow/
+茶色 [ちゃいろ] /brown/
+緑 [みどり] /green/
+グリーン [グリーン] /green/
+灰色 [はいいろ] /gray/
+グレー [グレー] /gray/
+ピンク [ピンク] /pink/
+銀色 [ぎんいろ] /silver/
+シルバー [シルバー] /silver/
+紫 [むらさき] /purple/
+水色 [みずいろ] /light blue/
+金色 [きんいろ] /gold/
+ゴールド [ゴールド] /gold/
