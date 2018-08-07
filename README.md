@@ -11,7 +11,7 @@ The courses are thematically grouped by chapter notebooks:
 NBDime https://github.com/jupyter/nbdime can help you merge and diff Jupyter notebooks for when you decide to edit.
 In /util I have also provided a python3 script for joining/appending notebooks, handy for joining chapters or assignments into one file: `python3 nbjoin.py nb1.ipynb nb2.ipynb > joined.ipynb`
 
-![Python intro course logo](images/python-intro-logo?raw=true "Python intro course logo")
+![Python intro course logo](images/python-intro-logo.jpg?raw=true "Python intro course logo")
 
 Announce the following before the first class:
 # Course preparation
