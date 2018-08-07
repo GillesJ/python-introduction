@@ -1,4 +1,4 @@
-# Introduction: Processing Language with Python
+# Introduction to Programming with Python
 This repository contains the course files for the introductory Python course.
 This course borrows heavily from 'Python for the Humanities', a course by Folgert Karsdorp and Maarten van Gompel with modifications and contributions by Mike Kestemont, Lars Wieneke, Bart Desmet, Gilles Jacobs, and Patrick Goethals
 
@@ -11,8 +11,9 @@ The courses are thematically grouped by chapter notebooks:
 NBDime https://github.com/jupyter/nbdime can help you merge and diff Jupyter notebooks for when you decide to edit.
 In /util I have also provided a python3 script for joining/appending notebooks, handy for joining chapters or assignments into one file: `python3 nbjoin.py nb1.ipynb nb2.ipynb > joined.ipynb`
 
+![Python intro course logo](images/python-intro-logo?raw=true "Python intro course logo")
+
 Announce the following before the first class:
-____________________________________________________________________________________
 # Course preparation
 In the course we will be using software that works best with Google Chrome. Firefox 6 (or above) and Safari will also work. Internet Explorer is not supported. All recommended software is cross-platform and works on Windows, OSX, and Linux. Please, make sure that the software described below is installed and working before coming to the first class.
 
