@@ -23,13 +23,13 @@ This course will not be taught in computer classes and relies on each student to
 
 ## Text editor
 We advice you to install a good text editor, Sublime Text 3 for example. However, feel free to use your own favorite editor. For Sublime Text 3 go to http://www.sublimetext.com/, download the version for your operating system, and install.
-Good alternatives are Atom, or a (my personal facourite) PyCharm, a full-blown Python IDE.
+Good alternatives are Atom, or (my personal favourite) PyCharm, a full-blown Python IDE.
 
 ## Anaconda Python distribution
 **Install the Anaconda Python Distribution.** This distribution contains all the necessary modules and packages needed for this course. It is available for all platforms and provides a simple installation procedure. Be sure to choose the **3.6 version** of the distribution for your specific OS.
 
-You can download it from: http://continuum.io/downloads
-(More detailed installation instructions can be found here: http://docs.continuum.io/anaconda/install.html)
+You can download it from: https://www.anaconda.com/download/
+(More detailed installation instructions can be found here: https://docs.anaconda.com/anaconda/install/)
 
 ## Jupyter notebooks
 In this course we will be using Jupyter notebooks as a teaching tool. These are files that contain text, markup and executable code meant to make presenting code easy. Jupyter is the program that reads these files and presents them to your web-browser. It comes with the Anaconda distribution.
