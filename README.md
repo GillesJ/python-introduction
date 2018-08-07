@@ -1,5 +1,6 @@
 # Introduction: Processing Language with Python
 This repository contains the course files for the introductory Python course.
+This course borrows heavily from 'Python for the Humanities', a course by Folgert Karsdorp and Maarten van Gompel with modifications and contributions by Mike Kestemont, Lars Wieneke, Bart Desmet, Gilles Jacobs, and Patrick Goethals
 
 The courses are thematically grouped by chapter notebooks:
 - `chapter`: for teaching without the DIY class exercises filled.
